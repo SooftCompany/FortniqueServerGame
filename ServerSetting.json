@@ -1,0 +1,77 @@
+{
+	"FortniqueServer":
+	{
+		"Title": "FORNIQUE",
+		"Connection": true,
+		"Updated": 1.3,
+		"Warnings": "Para continuar actualizando el juego necesitamos una minima donacion de $25 dolares.",
+		"NumberZombies": 10,
+		"CodeCosmetics": "E46C65DFAF443756",
+		
+		"Characters":
+		[
+			"CID_001_Athena_Commando_F_Default",
+			"CID_003_Athena_Commando_F_Default",
+			"CID_004_Athena_Commando_F_Default",
+			"CID_005_Athena_Commando_M_Default",
+			"CID_017_Athena_Commando_M",
+			"CID_028_Athena_Commando_F",
+			"CID_029_Athena_Commando_F_Halloween",
+			"CID_032_Athena_Commando_M_Medieval",
+			"CID_035_Athena_Commando_M_Medieval",
+			"CID_082_Athena_Commando_M_Scavenger",
+			"CID_116_Athena_Commando_M_CarbideBlack",
+			"CID_119_Athena_Commando_F_Candy",
+			"CID_690_Athena_Commando_F_Photographer",
+			"CID_286_Athena_Commando_F_NeonCat",
+			"CID_313_Athena_Commando_M_KpopFashion",
+			"CID_300_Athena_Commando_F_Angel",
+			"CID_173_Athena_Commando_F_StarfishUniform",
+			"CID_349_Athena_Commando_M_Banana",
+			"CID_Z_001_Athena_Commando_F_OchapoTouugraper",
+			"CID_A_024_Athena_Commando_F_Skirmish_QW2BQ",
+			"CID_Z_002_Athena_Commando_B_Blackicandyman"
+		],
+
+		"Backpacks":
+		[
+			"BID_004_BlackKnight",
+			"BID_027_Scavenger",
+			"BID_074_LifeguardFemale",
+			"BID_104_YellowZip",
+			"BID_229_LuckyRiderMale",
+			"BID_304_Duck",
+			"BID_480_Donut",
+			"BID_779_AntiqueCat"
+		],
+
+		"Pickaxes":
+		[
+			"Pickaxe_ID_475_ChOnePickaxe",
+			"Pickaxe_ID_011_Medieval",
+			"Pickaxe_ID_012_District",
+			"Pickaxe_ID_013_Teslacoil",
+			"Pickaxe_ID_046_Candy"
+		],
+
+		"Emotes":
+		[
+			"EID_DanceMoves",
+			"EID_RichFam",
+			"EID_Laugh",
+			"EID_Floss",
+			"EID_GoodVibes",
+			"EID_HipHop01",
+			"EID_KPopDance03",
+			"EID_Pofertye",
+			"EID_Sunlit",
+			"EID_TakeTheL",
+			"EID_Worm",
+			"EID_CrazyDance",
+			"EID_TakeTheElf",
+			"EID_Saucer",
+			"EID_TredCaned",
+			"EID_Downward_8GZUA"
+		]
+	}
+}
