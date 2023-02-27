@@ -3,6 +3,7 @@
 	[
 		{
 			"ModeStatus": false,
+			"Available" : false,
 			"Name": "Modo Normal",
 			"Description": "Un Simple Modo Normal",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/",
@@ -11,6 +12,7 @@
 
 		{
 			"ModeStatus": true,
+			"Available" : false,
 			"Name": "Save The World",
 			"Description": "Sovrevive contra zombies y recolecta puntos.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/fortnite-season-9-icon.jpg",
@@ -19,6 +21,7 @@
 
 		{
 			"ModeStatus": true,
+			"Available" : false,
 			"Name": "Party Royale",
 			"Description": "prueba todos los cosmeticos disponivles.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/PartyRoyale-icono.jfif",
@@ -27,6 +30,7 @@
 
 		{
 			"ModeStatus": true,
+			"Available" : false,
 			"Name": "UndertalEditor",
 			"Description": "este modo no esta disponivle en la version 1.2",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
