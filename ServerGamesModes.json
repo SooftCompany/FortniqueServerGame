@@ -30,7 +30,7 @@
 
 		{
 			"ModeStatus": true,
-			"Available" : false,
+			"Available" : true,
 			"Name": "UndertalEditor",
 			"Description": "este modo no esta disponivle en la version 1.2",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
