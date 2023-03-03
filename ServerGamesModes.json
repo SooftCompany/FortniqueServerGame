@@ -32,7 +32,7 @@
 			"ModeStatus": true,
 			"Available" : false,
 			"Name": "UndertalEditor",
-			"Description": "este modo no esta disponivle en la version 1.2",
+			"Description": "este modo no esta disponivle en la version 1.4",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
 			"DefaultMap": "Survival_Park_Maped"
 		}
