@@ -35,6 +35,15 @@
 			"Description": "este modo no esta disponivle en la version 1.4",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
 			"DefaultMap": "Survival_Park_Maped"
+		},
+
+		{
+			"ModeStatus": true,
+			"Available" : false,
+			"Name": "UndertalEditor",
+			"Description": "Eeste modo NoPor de Fortnique estara disponivle en la version 1.8",
+			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/568819955694393031d7d663cb5a5af9.2-1024x576.jpg",
+			"DefaultMap": "none"
 		}
 	]
 }
