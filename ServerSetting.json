@@ -6,7 +6,7 @@
 		"Updated": 1.4,
 		"Warnings": "Advertencia actualmente el juego esta siendo actualizado, por lo tanto sera comun ver errores.",
 		"NumberZombies": 6,
-		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "02"],
+		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json"],
 		"CodeCosmetics": "E46C65DFAF443756",
 		"Filename": "CosmeticGameSave",
 		"SaveCosmetics": true,
