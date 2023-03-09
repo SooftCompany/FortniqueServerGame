@@ -4,7 +4,7 @@
 		"Title": "FORNIQUE",
 		"Connection": true,
 		"Updated": 1.4,
-		"Warnings": "Advertencia actualmente el juego esta siendo actualizado, por lo tanto sera comun ver errores.",
+		"Warnings": "Ya falta poco para que salga la version 1.5",
 		"NumberZombies": 6,
 		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json"],
 		"CodeCosmetics": "E46C65DFAF443756",
