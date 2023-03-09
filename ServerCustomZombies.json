@@ -4,6 +4,6 @@
 		"zLife": 100,
 		"zSpeed": 600,
 		"zDamageIntensity": 20,
-		"zSkeletalMesh": ""
+		"zSkeletalMesh": 0,
 	}
 }
