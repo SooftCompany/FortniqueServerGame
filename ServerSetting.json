@@ -5,7 +5,7 @@
 		"Connection": true,
 		"Updated": 1.4,
 		"Warnings": "Ya falta poco para que salga la version 1.5",
-		"WarningsNew": ["La nueva version ya esta aca!.", "para darnos las gracias a nosotros nos podrian donar un minimo de $25 dolares."],
+		"WarningsNew": ["La nueva version ya esta aca!.", "para darnos las gracias a nosotros nos podrian donar un minimo de $25 dolares.", "las personas que hallan descargado el juego la verdad les aradesemos una banda!", "Atualizado: se añadio mas cosmeticos y alunas mejoras en el codigo de juego."],
 		"NumberZombies": 6,
 		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json"],
 		"CodeCosmetics": "E46C65DFAF443756",
