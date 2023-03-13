@@ -4,7 +4,7 @@
 		"Title": "FORNIQUE",
 		"Connection": true,
 		"Updated": 1.5,
-		"WarningsNew": ["La nueva version ya esta aca!.", "para darnos las gracias a nosotros nos podrian donar un minimo de $25 dolares.", "las personas que hallan descargado el juego la verdad les aradesemos una banda!", "Atualizado: se añadio mas cosmeticos y alunas mejoras en el codigo de juego."],
+		"WarningsNew": ["Para continuar actualizando el juego necesitamos una minima donacion de $25 dolares.", "Ya son mas de 100 descargas, gracias por probar el fan game."],
 		"NumberZombies": 6,
 		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json"],
 		"CodeCosmetics": "E46C65DFAF443756",
