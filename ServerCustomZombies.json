@@ -1,8 +1,8 @@
 {
 	"ZombiesTypeLevel":
 	{
-		"zLife": 300,
-		"zSpeed": 600,
+		"zLife": 450,
+		"zSpeed": 300,
 		"zDamageIntensity": 20,
 		"zSkeletalMesh": 0
 	}
