@@ -5,6 +5,8 @@
 			"ModeStatus": false,
 			"Available" : false,
 			"Name": "Modo Normal",
+			"Passworld": "",
+			"IsServer": false,
 			"Description": "Un Simple Modo Normal",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/",
 			"DefaultMap": "none"
@@ -14,6 +16,8 @@
 			"ModeStatus": true,
 			"Available" : true,
 			"Name": "Save The World",
+			"Passworld": "",
+			"IsServer": false,
 			"Description": "Sovrevive contra zombies y recolecta puntos.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/fortnite-season-9-icon.jpg",
 			"DefaultMap": "Entry_Map_Survival"
@@ -23,6 +27,8 @@
 			"ModeStatus": true,
 			"Available" : true,
 			"Name": "Party Royale",
+			"Passworld": "",
+			"IsServer": false,
 			"Description": "prueba todos los cosmeticos disponivles.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/PartyRoyale-icono.jfif",
 			"DefaultMap": "Entry_Pary_Fornique"
@@ -32,6 +38,8 @@
 			"ModeStatus": true,
 			"Available" : false,
 			"Name": "UndertalEditor",
+			"Passworld": "",
+			"IsServer": false,
 			"Description": "este modo no esta disponivle en la version actual.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
 			"DefaultMap": "Survival_Park_Maped"
@@ -41,6 +49,8 @@
 			"ModeStatus": true,
 			"Available" : false,
 			"Name": "Fortnique Porno",
+			"Passworld": "",
+			"IsServer": false,
 			"Description": "Eeste modo NoPor de Fortnique estara disponivle en la version 1.8",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/568819955694393031d7d663cb5a5af9.2-1024x576.jpg",
 			"DefaultMap": "none"
@@ -48,11 +58,13 @@
 
 		{
 			"ModeStatus": true,
-			"Available" : false,
+			"Available" : true,
 			"Name": "Multiplayer",
+			"Passworld": "4243D",
+			"IsServer": true,
 			"Description": "Juega con otras personas y diviertete.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/184569hooholop.jfif",
-			"DefaultMap": "none"
+			"DefaultMap": "FortServerMapOnlyEOS"
 		},
 	]
 }
