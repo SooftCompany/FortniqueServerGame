@@ -66,5 +66,16 @@
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/184569hooholop.jfif",
 			"DefaultMap": "FortServerMapOnlyEOS"
 		},
+
+		{
+			"ModeStatus": true,
+			"Available" : true,
+			"Name": "Batalla Campal",
+			"Passworld": "6622",
+			"IsServer": false,
+			"Description": "Todos contra todos un ganador.",
+			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/fortnite-battle-royale_25.jpg",
+			"DefaultMap": "FortLocalBattleRoyale0"
+		},
 	]
 }
