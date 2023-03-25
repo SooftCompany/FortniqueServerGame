@@ -94,6 +94,11 @@
 			"EID_StringDance",
 			"EID_FuzzBall",
 			"EID_Showstopper"
+		],
+
+		"MusicPacks":
+		[
+			"MusicPack_003_OGRemix"
 		]
 	}
 }
