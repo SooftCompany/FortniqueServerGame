@@ -36,9 +36,9 @@
 
 		{
 			"ModeStatus": true,
-			"Available" : false,
+			"Available" : true,
 			"Name": "UndertalEditor",
-			"Passworld": "",
+			"Passworld": "30549",
 			"IsServer": false,
 			"Description": "este modo no esta disponivle en la version actual.",
 			"Icono": "https://sooftcompany.github.io/FortniqueServerGame/Imagenes/Iconos/BackendRelased.jfif",
