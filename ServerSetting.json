@@ -6,7 +6,7 @@
 		"Updated": 1.7,
 		"WarningsNew": ["Para continuar actualizando el juego necesitamos una minima donacion de $25 dolares.", "Ya son mas de 100 descargas, gracias por probar el fan game.", "va aver un poco de inactividad con el fan game."],
 		"NumberZombies": 15,
-		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json"],
+		"CustomerServices": ["https://sooftcompany.github.io/FortniqueServerGame/ServerGamesModes.json", "https://sooftcompany.github.io/FortniqueServerGame/ServerCustomZombies.json", "https://sooftcompany.github.io/FortniqueServerGame//Opciones/Config/FortSettingGames.json"],
 		"CodeCosmetics": "E46C65DFAF443756",
 		"Filename": "CosmeticGameSave",
 		"SaveCosmetics": true,
