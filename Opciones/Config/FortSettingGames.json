@@ -3,36 +3,8 @@
 	[
 		{
 			"Available": true,
-			"DisplayName": "sensivilidad camara",
-			"Type": "float",
-			"CallType": 0
-		},
-
-		{
-			"Available": true,
-			"DisplayName": "Campo de vison",
-			"Type": "float",
-			"CallType": 1
-		},
-
-		{
-			"Available": true,
-			"DisplayName": "camara vertical",
-			"Type": "float",
-			"CallType": 2
-		},
-
-		{
-			"Available": true,
-			"DisplayName": "camara horizontal",
-			"Type": "float",
-			"CallType": 3
-		},
-
-		{
-			"Available": true,
-			"DisplayName" "acistencia de punteria"
-			"Type": "bool",
+			"DisplayName" "aaaaa"
+			"Type" : "float",
 			"CallType": 0
 		}
 	]
